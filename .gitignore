@@ -15,5 +15,11 @@ Archieve/
 *.cb2
 .*.lb
 
+*.fdb_latexmk
+*.synctex.gz
+
 # github action result
 semicolon_delimited_script
+
+# macos
+.DS_Store
